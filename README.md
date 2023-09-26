@@ -21,5 +21,5 @@ The normal images are collected and integrated from the three sources. A total o
 ### Broken Power Lines
 Anomaly data is collected from Google Images through keyword search and manual labeling. We consider two types of anomalies. One is for broken power lines where damages can be visually seen in the images. The other is for downed power lines, where the line is not broken but impacted by some objects like fallen trees. A total of 120 abnormal images were collected consisting of 74 broken power line images and 46 downed power lines images.
 
-** Declaration: **
+**Declaration:**
 All data in this dataset is collected online. If any potential copyright violation, please let us know.
