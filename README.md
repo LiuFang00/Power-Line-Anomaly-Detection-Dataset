@@ -1,5 +1,6 @@
 # TransLine_Image_Dataset
 This dataset is mainly used to support the research on anomaly power line detection. 
+
 **If you would like to use this dataset, please help to cite our papers shown below:**
 
 \[TPCI\] Fang Liu, Wei Zhang (corresponding author), Indriyati Atmosukarto et al. “TransLine: Transfer Learning for Accurate and Explainable Power Line Anomaly Detection with Insufficient Data.” CCF Transactions on Pervasive Computing and Interaction (TPCI), pp. 1-14. May, 2023. [PDF](https://drive.google.com/file/d/1xlFw19fNJ2rvbx-m56LS9C1YeIn-gF8I/view?pli=1)
