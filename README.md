@@ -3,9 +3,8 @@ This dataset is mainly used to support the research on anomaly power line detect
 
 **If you would like to use this dataset, please help to cite our papers shown below:**
 
-\[TPCI\] Fang Liu, Wei Zhang (corresponding author), Indriyati Atmosukarto et al. “TransLine: Transfer Learning for Accurate and Explainable Power Line Anomaly Detection with Insufficient Data.” CCF Transactions on Pervasive Computing and Interaction (TPCI), pp. 1-14. May, 2023. [PDF](https://drive.google.com/file/d/1xlFw19fNJ2rvbx-m56LS9C1YeIn-gF8I/view?pli=1)
-
-\[ICC '22\] Fang Liu, Teck Wei Low, Wei Zhang (corresponding author) et al. “TransLine: Transfer Learning for Accurate Power Line Anomaly Detection with Insufficient Data.” IEEE International Conference on Communications (ICC), pp. 5543-5548. IEEE. Seoul, South Korea. May 16–20, 2022.
+1. \[TPCI\] Fang Liu, Wei Zhang (corresponding author), Indriyati Atmosukarto et al. “TransLine: Transfer Learning for Accurate and Explainable Power Line Anomaly Detection with Insufficient Data.” CCF Transactions on Pervasive Computing and Interaction (TPCI), pp. 1-14. May, 2023. [PDF](https://drive.google.com/file/d/1xlFw19fNJ2rvbx-m56LS9C1YeIn-gF8I/view?pli=1)
+2. \[ICC '22\] Fang Liu, Teck Wei Low, Wei Zhang (corresponding author) et al. “TransLine: Transfer Learning for Accurate Power Line Anomaly Detection with Insufficient Data.” IEEE International Conference on Communications (ICC), pp. 5543-5548. IEEE. Seoul, South Korea. May 16–20, 2022.
 
 ### Problem
 Data is a necessity for power line anomaly detection. With the technology advancements in the past decades, various imaging terminals are available nowadays, e.g., electric vehicles, UAVs, and perhaps even Spot by Boston Dynamics in the near future. However, a problem still exists for power line data. While it is not difficult to get data, data is often highly biased and imbalanced. It is well-known that an anomaly rarely occurs.
