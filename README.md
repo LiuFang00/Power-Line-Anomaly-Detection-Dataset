@@ -1,7 +1,7 @@
 # Power Line Anomaly Detection Dataset
 This dataset is mainly used to support the research on anomaly power line detection.
 
-**What to use our data? Please help cite our papers shown below.**
+**What to use our data? Please help cite our papers:**
 
 1. \[TPCI\] Fang Liu, Wei Zhang, Indriyati Atmosukarto et al. “TransLine: Transfer Learning for Accurate and Explainable Power Line Anomaly Detection with Insufficient Data.” CCF Transactions on Pervasive Computing and Interaction (TPCI), pp. 1-14. May, 2023. [PDF](https://drive.google.com/file/d/1xlFw19fNJ2rvbx-m56LS9C1YeIn-gF8I/view?pli=1)
 2. \[ICC '22\] Fang Liu, Teck Wei Low, Wei Zhang et al. “TransLine: Transfer Learning for Accurate Power Line Anomaly Detection with Insufficient Data.” IEEE International Conference on Communications (ICC), pp. 5543-5548. IEEE. Seoul, South Korea. May 16–20, 2022.
